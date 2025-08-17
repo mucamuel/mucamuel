@@ -1,11 +1,9 @@
 ## SAMUEL DO CARMO👋
-
-- 👷🏽 Trabalhando com TECNOLOGIA de AUTOMAÇÃO
+- 👷 Eletricista FC II | Editor de VIDEO | Empreendedor
 - 💻 Estudando Análise & Desenvolvimento de Sistemas
 - 🛠️ Aspirante em Full Steck / front-end and back-end
-- 📧 Contato: Samwellzyzz@outlook.com
+- 🔖 Foco em TECNOLOGIA
 ---
-
 <img 
     align="left" 
     alt="HTML"
